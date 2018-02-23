@@ -9,8 +9,8 @@
 ***
 Installation:
 
-    git clone https://github.com/MooseDojo/reponamehere.git
-    cd reponamehere/OSINT/dataScrape
+    git clone https://github.com/khayes-r7/dataScrape.git
+    cd dataScrape
     python dataScrape.py --help
 
     3rd Party Python libraries may be required:
